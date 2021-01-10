@@ -1,3 +1,3 @@
 # Gameplix
 
-Made from React
+Everyting about game. Watch on Gameplix
